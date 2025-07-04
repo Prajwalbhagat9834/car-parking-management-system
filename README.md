@@ -21,5 +21,5 @@ This project demonstrates secure login, dynamic car management, and real-time pa
 
 ## Author
 
-- Prajwal Bhimrao Bhagat
+- Prajwal Bhagat
 
